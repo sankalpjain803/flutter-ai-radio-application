@@ -1,2 +1,2 @@
 # flutter-ai-radio-application
-KINDLY GO THROUGH THE OTHER BRANCH TO VIEW FLUTTER APP. :)
+The complete Project is present in Master Branch.
